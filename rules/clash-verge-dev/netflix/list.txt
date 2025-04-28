@@ -2,42 +2,67 @@
 # Arthur FuGuiLiu
 # clash verge dev mihomo 语法规则集
 payload:
-  - '+.netflix.com'
-  - 'e13252.dscg.akamaiedge.net'
-  - 'h-netflix.online-metrix.net'
-  - 'netflix.com.edgesuite.net'
-  - 'cookielaw.org'
-  - 'fast.com'
-  - 'flxvpn.net'
-  - 'netflix.ca'
-  - 'netflix.com'
-  - 'netflix.com.au'
-  - 'netflix.com.edgesuite.net'
-  - 'netflix.net'
-  - 'netflixdnstest0.com'
-  - 'netflixdnstest1.com'
-  - 'netflixdnstest10.com'
-  - 'netflixdnstest2.com'
-  - 'netflixdnstest3.com'
-  - 'netflixdnstest4.com'
-  - 'netflixdnstest5.com'
-  - 'netflixdnstest6.com'
-  - 'netflixdnstest7.com'
-  - 'netflixdnstest8.com'
-  - 'netflixdnstest9.com'
-  - 'netflixinvestor.com'
-  - 'netflixstudios.com'
-  - 'netflixtechblog.com'
-  - 'nflxext.com'
-  - 'nflximg.com'
-  - 'nflximg.net'
-  - 'nflxsearch.net'
-  - 'nflxso.net'
-  - 'nflxvideo.net'
-  - 'onetrust.com'
-  - 'us-west-2.amazonaws.com'
-  - 'apiproxy-device-prod-nlb-'
-  - 'dualstack.apiproxy-'
-  - 'dualstack.ichnaea-web-'
-  - 'netflixdnstest'
-  - 'com.netflix.mediaclient'
+- DOMAIN-SUFFIX,abema.io
+- DOMAIN-SUFFIX,abema.tv
+- DOMAIN-SUFFIX,ameba.jp
+- DOMAIN-SUFFIX,animaxplus.com
+- DOMAIN-SUFFIX,bbc.co.uk
+- DOMAIN-SUFFIX,bbci.co.uk
+- DOMAIN-SUFFIX,bilibili.co.id
+- DOMAIN-SUFFIX,bilibili.com
+- DOMAIN-SUFFIX,bilibili.tv
+- DOMAIN-SUFFIX,bsky.app
+- DOMAIN-SUFFIX,bsky.social
+- DOMAIN-SUFFIX,channel4.com
+- DOMAIN-SUFFIX,crunchyroll.com
+- DOMAIN-SUFFIX,dazn-api.com
+- DOMAIN-SUFFIX,dazn.com
+- DOMAIN-SUFFIX,disco
+- DOMAIN-SUFFIX,disney-plus.net
+- DOMAIN-SUFFIX,disneyplus.com
+- DOMAIN-SUFFIX,hd-plus.de
+- DOMAIN-SUFFIX,hulu.com
+- DOMAIN-SUFFIX,huluim.com
+- DOMAIN-SUFFIX,iq.com
+- DOMAIN-SUFFIX,iqiyi.com
+- DOMAIN-SUFFIX,joox.com
+- DOMAIN-SUFFIX,kkbox.com
+- DOMAIN-SUFFIX,le.com
+- DOMAIN-SUFFIX,letv.com
+- DOMAIN-SUFFIX,mubi.com
+- DOMAIN-SUFFIX,mytvsuper.com
+- DOMAIN-SUFFIX,netflix.com
+- DOMAIN-SUFFIX,netflix.net
+- DOMAIN-SUFFIX,nflxext.com
+- DOMAIN-SUFFIX,nflximg.com
+- DOMAIN-SUFFIX,nflximg.net
+- DOMAIN-SUFFIX,nflxso.net
+- DOMAIN-SUFFIX,nflxvideo.net
+- DOMAIN-SUFFIX,nowe.com
+- DOMAIN-SUFFIX,nowtv.com
+- DOMAIN-SUFFIX,pandora.com
+- DOMAIN-SUFFIX,peacocktv.com
+- DOMAIN-SUFFIX,plex.tv
+- DOMAIN-SUFFIX,roku.com
+- DOMAIN-SUFFIX,sky.com
+- DOMAIN-SUFFIX,spotify.com
+- DOMAIN-SUFFIX,tidal.com
+- DOMAIN-SUFFIX,tubi.tv
+- DOMAIN-SUFFIX,viki.com
+- DOMAIN-SUFFIX,viu.com
+- DOMAIN-SUFFIX,viu.tv
+- DOMAIN-SUFFIX,wowow.co.jp
+- DOMAIN-SUFFIX,youtube.com
+- DOMAIN-SUFFIX,youtube-nocookie.com
+- DOMAIN-SUFFIX,ytimg.com
+- DOMAIN-KEYWORD,netflix
+- DOMAIN-KEYWORD,spotify
+- IP-CIDR,23.246.0.0/18,no-resolve
+- IP-CIDR,37.77.184.0/21,no-resolve
+- IP-CIDR,45.57.0.0/17,no-resolve
+- IP-CIDR,64.120.128.0/17,no-resolve
+- IP-CIDR,66.197.128.0/17,no-resolve
+- IP-CIDR,108.175.32.0/20,no-resolve
+- IP-CIDR,192.173.64.0/18,no-resolve
+- IP-CIDR,198.38.96.0/19,no-resolve
+- IP-CIDR,198.45.48.0/20,no-resolve
