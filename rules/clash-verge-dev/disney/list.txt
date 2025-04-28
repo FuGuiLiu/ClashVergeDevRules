@@ -3,7 +3,10 @@
 # clash verge dev mihomo 语法规则集
 payload:
   - '+.disneyplus.com'
+  - '+.disney-plus.net'
   - '+.disney.com'
+  - 'disney.api.edge.bamgrid.com'
+  - 'disney.images.edge.bamgrid.com'
   - '20thcenturystudios.com.au'
   - '20thcenturystudios.com.br'
   - '20thcenturystudios.jp'
@@ -26,7 +29,7 @@ payload:
   - 'disney-asia.com'
   - 'disney-discount.com'
   - 'disney-plus.net'
-  - 'disney-portal.my.onetrust.com'
+  - '+.disney-portal.my.onetrust.com'
   - 'disney-studio.com'
   - 'disney-studio.net'
   - 'disney.asia'
