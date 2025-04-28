@@ -2,6 +2,7 @@
 # Arthur FuGuiLiu
 # clash verge dev mihomo 语法规则集
 payload:
+  - '+.disneyplus.com'
   - '+.disney.com'
   - '20thcenturystudios.com.au'
   - '20thcenturystudios.com.br'
@@ -103,7 +104,6 @@ payload:
   - 'disneynow.com'
   - 'disneypeoplesurveys.com'
   - 'disneyplus.bn5x.net'
-  - 'disneyplus.com'
   - 'disneyplus.com.ssl.sc.omtrdc.net'
   - 'disneyprivacycenter.com'
   - 'disneyredirects.com'
