@@ -1,0 +1,18 @@
+# Name cf rules
+# Arthur FuGuiLiu
+# clash verge dev mihomo 语法规则集
+payload:
+  - '+.cf-ns.com'
+  - '+.cf-ns.net'
+  - '+.cf-ns.site'
+  - '+.cf-ns.tech'
+  - '+.cftest5.cn'
+  - '+.cftest6.cn'
+  - '+.cftest7.com'
+  - '+.cftest8.com'
+  - '+.cloudflare-cn.com'
+  - '+.cloudflarecn.net'
+  - '+.cloudflareinsights-cn.com'
+  - '+.cloudflareprod.com'
+  - '+.cloudflarestaging.com'
+  - '+.cloudflarestoragegw.com'
