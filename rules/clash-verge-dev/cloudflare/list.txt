@@ -3,6 +3,8 @@
 # clash verge dev mihomo 语法规则集
 payload:
   - '+.cf-ns.com'
+  - '+.challenges.cloudflare.com'
+  - '+.cloudflare.com'
   - '+.cf-ns.net'
   - '+.cf-ns.site'
   - '+.cf-ns.tech'
