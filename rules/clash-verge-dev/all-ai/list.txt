@@ -12,6 +12,7 @@ payload:
   - 'static.cloudflareinsights.com'
   - '+.ai.com'
   - '+.algolia.net'
+  - '+.auth.openai.com'
   - '+.api.statsig.com'
   - '+.auth0.com'
   - '+.chatgpt.com'
