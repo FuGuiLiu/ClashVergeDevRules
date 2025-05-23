@@ -2,6 +2,7 @@
 # Arthur FuGuiLiu
 # clash verge dev mihomo 语法规则集
 payload:
+  - '+.openai.com'
   - '+.browser-intake-datadoghq.com'
   - '+.chat.openai.com.cdn.cloudflare.net'
   - '+.gemini.google.com'
@@ -12,7 +13,6 @@ payload:
   - 'static.cloudflareinsights.com'
   - '+.ai.com'
   - '+.algolia.net'
-  - '+.auth.openai.com'
   - '+.api.statsig.com'
   - '+.auth0.com'
   - '+.chatgpt.com'
@@ -28,7 +28,6 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.observeit.net'
-  - '+.openai.com'
   - 'openaiapi-site.azureedge.net'
   - 'openaicom.imgix.net'
   - '+.segment.io'
